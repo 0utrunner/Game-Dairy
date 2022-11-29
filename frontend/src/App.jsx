@@ -1,13 +1,19 @@
 import './App.css'
 
+import Homepage from './pages/Homepage'
 import SiteNav from './components/SiteNav'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 
 function App() {
 
   console.log("Let's get started then...")
   return (
-    <div className="Site">
-      <h1>The Games that Made Me</h1>
+    <div>
+      <Router>
+        <Routes>
+          <Route path='/' element={<Homepage />}/>
+        </Routes>
+      </Router>
     </div>
   )
 }
