@@ -1,5 +1,3 @@
-import './App.css'
-
 import Homepage from './pages/Homepage'
 import SiteNav from './components/SiteNav'
 import { HashRouter as Router, Routes, Route } from 'react-router-dom'
