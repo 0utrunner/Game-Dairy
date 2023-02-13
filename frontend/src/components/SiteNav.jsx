@@ -9,8 +9,13 @@ function SiteNav() {
         <Container>
           <Nav className="navbar-auto">
             <Nav.Link href="#">All Games</Nav.Link>
-            <Nav.Link href="#">Games by Console</Nav.Link>
-            <Nav.Link href="#">Games by Genre</Nav.Link>
+            <Nav.Link href="#">Action</Nav.Link>
+            <Nav.Link href="#">Beat 'em Up</Nav.Link>
+            <Nav.Link href="#">Fighter</Nav.Link>
+            <Nav.Link href="#">Platformer</Nav.Link>
+            <Nav.Link href="#">Puzzle</Nav.Link>
+            <Nav.Link href="#">Racing</Nav.Link>
+            <Nav.Link href="#">RPG</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
