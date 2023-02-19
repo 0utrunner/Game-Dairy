@@ -5,9 +5,9 @@ import Navbar from 'react-bootstrap/Navbar';
 function SiteNav() {
 
     return(
-      <Navbar bg="light" variant="light">
+      <Navbar className='navbar'>
         <Container>
-          <Nav className="navbar-auto">
+          <Nav>
             <Nav.Link href="#">All Games</Nav.Link>
             <Nav.Link href="#">Action</Nav.Link>
             <Nav.Link href="#">Beat 'em Up</Nav.Link>
