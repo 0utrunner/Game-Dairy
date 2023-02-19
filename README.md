@@ -1,2 +1,3 @@
-# Game-Diary
-An ongoing website detailing all the games I love. Will be periodically updated to add new games to the site.
+# SNES-is-Best
+This is a website for me to talk about all the great games the Super Nintendo has to offer. Updated whenever I feel like talking about another game.
+
