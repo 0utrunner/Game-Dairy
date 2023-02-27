@@ -8,14 +8,15 @@ function SiteNav() {
       <Navbar className='navbar'>
         <Container>
           <Nav>
-            <Nav.Link href="#">All Games</Nav.Link>
-            <Nav.Link href="#">Action</Nav.Link>
-            <Nav.Link href="#">Beat 'em Up</Nav.Link>
-            <Nav.Link href="#">Fighter</Nav.Link>
-            <Nav.Link href="#">Platformer</Nav.Link>
-            <Nav.Link href="#">Puzzle</Nav.Link>
-            <Nav.Link href="#">Racing</Nav.Link>
-            <Nav.Link href="#">RPG</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/#/all">All Games</Nav.Link>
+            <Nav.Link href="/#/action">Action</Nav.Link>
+            <Nav.Link href="/#/beatup">Beat 'em Up</Nav.Link>
+            <Nav.Link href="/#/fighter">Fighter</Nav.Link>
+            <Nav.Link href="/#/platformer">Platformer</Nav.Link>
+            <Nav.Link href="/#/puzzle">Puzzle</Nav.Link>
+            <Nav.Link href="/#/racing">Racing</Nav.Link>
+            <Nav.Link href="/#/rpg">RPG</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
