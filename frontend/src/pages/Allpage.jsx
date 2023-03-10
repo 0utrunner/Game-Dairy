@@ -1,7 +1,7 @@
 function Allpage() {
 
     return (
-        <div className="all">
+        <div className="page-name">
             <h1>ALL GAMES</h1>
         </div>
     );

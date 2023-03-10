@@ -1,7 +1,7 @@
 function Puzzlepage() {
 
     return (
-        <div className="puzzle">
+        <div className="page-name">
             <h1>PUZZLE GAMES</h1>
         </div>
     );

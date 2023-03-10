@@ -1,7 +1,7 @@
 function Actionpage() {
 
     return (
-        <div className="action">
+        <div className="page-name">
             <h1>ACTION GAMES</h1>
         </div>
     );

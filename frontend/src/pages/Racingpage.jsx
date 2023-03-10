@@ -1,7 +1,7 @@
 function Racingpage() {
 
     return (
-        <div className="racing">
+        <div className="page-name">
             <h1>RACING GAMES</h1>
         </div>
     );

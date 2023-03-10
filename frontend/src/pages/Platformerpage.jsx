@@ -1,7 +1,7 @@
 function Platformerpage() {
 
     return (
-        <div className="platformer">
+        <div className="page-name">
             <h1>PLATFORMER GAMES</h1>
         </div>
     );

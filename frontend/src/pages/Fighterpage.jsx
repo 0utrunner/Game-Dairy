@@ -1,7 +1,7 @@
 function Fighterpage() {
 
     return (
-        <div className="fighter">
+        <div className="page-name">
             <h1>FIGHTING GAMES</h1>
         </div>
     );
