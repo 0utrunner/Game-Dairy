@@ -9,9 +9,6 @@ def home(request):
 def all(request):
     return HttpResponse('All games')
 
-def action(request):
-    return HttpResponse('Action games')
-
 def beatup(request):
     return HttpResponse("Beat 'em Up games")
 

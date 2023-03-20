@@ -10,7 +10,6 @@ function SiteNav() {
           <Nav>
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/#/all">All Games</Nav.Link>
-            <Nav.Link href="/#/action">Action</Nav.Link>
             <Nav.Link href="/#/beatup">Beat 'em Up</Nav.Link>
             <Nav.Link href="/#/fighter">Fighter</Nav.Link>
             <Nav.Link href="/#/platformer">Platformer</Nav.Link>
